@@ -1,1 +1,97 @@
-# Diy-Sim-Racing-Pedals-
+# Diy-Sim-Racing-Pedals
+
+I decided to make a DIY sim racing pedal setup For py desk as I already made a steering wheel and a pedal setup was lacking so In this one I'll be making one .
+
+## BOM 
+
+### Bill of Materials (BOM)
+
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| Springs | Tension | 4 | \$5.50 | [Amazon Link](https://amzn.in/d/0eIVMHWZ) | Amazon |
+| L joints | For Connecting Vertical and horizontal support | 1 | \$2.00 | [Amazon Link](https://amzn.in/d/05FpWmgl) | Amazon |
+| Jumper Wire With Breadboard | Connections | 1 | \$3.00 | [Amazon Link](https://amzn.in/d/0d2eNkw3) | Amazon |
+| ESP 32 | Microcontroller | 1 | \$7.00 | [Amazon Link](https://amzn.in/d/0fZDF7oJ) | Amazon |
+| 2nd Filament | 3D Printing | 1 | \$7.00 | [Amazon Link](https://amzn.in/d/05LWoKht) | Amazon |
+| Filament For 3D Printer | 3D Printing | 1 | \$7.00 | [Amazon Link](https://amzn.in/d/0eveRcwI) | Amazon |
+| Potentiometers | Controlling acc brake and clutch | 3 | \$8.00 | [Amazon Link](https://amzn.in/d/0eveRcwI) | Amazon |
+
+**Total Estimated Project Cost:** $47
+
+## Connections
+
+There are 3 potentiometers which are needed to be connected to Esp-32 via jumper cables and then the es32 shall be placed anywhere at the bottom of the structure in order to fix it and then just upload the code in esp32 and you are readyy to go XD !
+
+## Wiring Diagram 
+
+# ESP32 DIY Sim Racing Pedals Wiring
+
+## Connections
+
+```
+                 +----------------------+
+                 |       ESP32          |
+                 |                      |
+3.3V ------------+------------------+------------------+
+                 |                  |                  |
+                 |                  |                  |
+              [Pot 1]           [Pot 2]           [Pot 3]
+          Accelerator            Brake             Clutch
+                 |                  |                  |
+Signal ----------+                  |                  |
+     |                              |                  |
+GPIO34 ------------------------------                  |
+                                                        |
+Signal -------------------------------------- GPIO35 ---+
+                                                        |
+Signal -------------------------------------- GPIO32 ---+
+
+GND -------------+------------------+------------------+
+                 |                  |                  |
+               Pot1               Pot2               Pot3
+                GND                GND                GND
+```
+
+## Pin Mapping
+
+| Pedal | ESP32 Pin |
+|--------|-----------|
+| Accelerator | GPIO34 |
+| Brake | GPIO35 |
+| Clutch | GPIO32 |
+| VCC | 3.3V |
+| GND | GND |
+
+## Potentiometer Wiring
+
+Each potentiometer has three pins.
+
+```
+Left Pin   → GND
+Middle Pin → ESP32 ADC Pin (Signal)
+Right Pin  → 3.3V
+```
+
+> If the pedal works in reverse, simply swap the **GND** and **3.3V** wires on that potentiometer.
+
+## ADC Pins Used
+
+| GPIO | ADC Channel |
+|------|-------------|
+| GPIO34 | ADC1_CH6 |
+| GPIO35 | ADC1_CH7 |
+| GPIO32 | ADC1_CH4 |
+
+
+## Features 
+
+1 - Just plug and play after the code if finished uploading .
+
+2 - Ultra Precise since 1k Potentiometers used
+
+3 - Since ESP32-S3 is used , It is directly identified as USB controller 
+
+4 - Need less than 10 minutes setting this up .
+
+
+## ENJOYY XD ! 
