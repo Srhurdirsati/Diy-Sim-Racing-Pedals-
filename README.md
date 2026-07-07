@@ -18,6 +18,13 @@ I decided to make a DIY sim racing pedal setup For py desk as I already made a s
 
 **Total Estimated Project Cost:** $47
 
+
+## Images 
+
+<img width="1877" height="980" alt="Screenshot 2026-06-20 011311" src="https://github.com/user-attachments/assets/533cbfff-e6e7-4156-9657-2233e81b6b90" />
+
+<img width="1858" height="975" alt="Screenshot 2026-06-20 011243" src="https://github.com/user-attachments/assets/cf78d818-ae19-4dc8-a299-20fb00b86cfa" />
+
 ## Connections
 
 There are 3 potentiometers which are needed to be connected to Esp-32 via jumper cables and then the es32 shall be placed anywhere at the bottom of the structure in order to fix it and then just upload the code in esp32 and you are readyy to go XD !
