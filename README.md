@@ -1,3 +1,4 @@
+<img width="1282" height="781" alt="Screenshot 2026-06-20 010156" src="https://github.com/user-attachments/assets/98f8fd4b-a8e9-4b3d-b486-66192dcb681c" />
 # Diy-Sim-Racing-Pedals
 
 I decided to make a DIY sim racing pedal setup For py desk as I already made a steering wheel and a pedal setup was lacking so In this one I'll be making one .
@@ -24,6 +25,12 @@ I decided to make a DIY sim racing pedal setup For py desk as I already made a s
 <img width="1877" height="980" alt="Screenshot 2026-06-20 011311" src="https://github.com/user-attachments/assets/533cbfff-e6e7-4156-9657-2233e81b6b90" />
 
 <img width="1858" height="975" alt="Screenshot 2026-06-20 011243" src="https://github.com/user-attachments/assets/cf78d818-ae19-4dc8-a299-20fb00b86cfa" />
+
+
+<img width="1520" height="968" alt="Untitled" src="https://github.com/user-attachments/assets/1c2b568d-61eb-43de-a5ee-28b385e0b9a7" />
+<img width="1282" height="781" alt="Screenshot 2026-06-20 010156" src="https://github.com/user-attachments/assets/d8c48704-4964-4f24-b0af-b5686bab4346" />
+
+SPRING THICKNESS- BRAKE > CLUTCH >= ACCELERATOR
 
 ## Connections
 
