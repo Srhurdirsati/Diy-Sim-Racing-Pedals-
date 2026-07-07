@@ -111,6 +111,8 @@ And for more pressure , Ill use thicker springs like this :
 
 **That's 9 Hours of Continuous Work**
 
+
+
 ![image](https://stasis.hackclub-assets.com/images/1781896941005-qlvo0y.png)
 ![image](https://stasis.hackclub-assets.com/images/1781897828280-umyrm9.png)
 ![image](https://stasis.hackclub-assets.com/images/1781897922578-51ayy9.png)
@@ -119,6 +121,8 @@ And for more pressure , Ill use thicker springs like this :
 ![image](https://stasis.hackclub-assets.com/images/1781898199606-z3j6qn.png)
 ![image](https://stasis.hackclub-assets.com/images/1781898242252-ps019c.png)
 ![image](https://stasis.hackclub-assets.com/images/1781898239263-xr04bh.png)
+
+_Time spent: 9.5h_
 
 # 6/7/2026 8 PM - Finished Footrests for Bars !
 
