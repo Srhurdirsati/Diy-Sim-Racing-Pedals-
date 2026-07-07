@@ -21,9 +21,7 @@ I've made a firmware file and will be uploading it in the github repo
 
 # 6/19/2026 7 PM - CAD Finished !
 
-## JOURNALING AFTER FINISHED WORKING 
-
-### WONT BE ABLE TO UPLOAD ALL IMAGES AS FULL IS COMPLETE SO NO IMAGES OF PROGRESS ( DIRECT OUTCOME )
+***WONT BE ABLE TO UPLOAD ALL IMAGES AS FULL IS COMPLETE SO NO IMAGES OF PROGRESS ( DIRECT OUTCOME )***
 
 Ik im back after loong time but I gave hard this time , sa for continuous 9 hours working on the design , troubleshooting it .Lot of time wasted on mistakes and Hours of redesigning it whole again . Finally I am on a stage where I can't work on it to fix it more cause I know it'll work fine in real life but won't in 3d Model and there are planty are reasons but lets start with what I"ve done till now !
 
