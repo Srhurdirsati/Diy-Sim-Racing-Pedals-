@@ -71,58 +71,6 @@ _Time spent: 9.5h_
 # JOURNALING AFTER FINISHED WORKING 
 
 
-Ik im back after loong time but I gave hard this time , sa for continuous 9 hours working on the design , troubleshooting it .Lot of time wasted on mistakes and Hours of redesigning it whole again . Finally I am on a stage where I can't work on it to fix it more cause I know it'll work fine in real life but won't in 3d Model and there are planty are reasons but lets start with what I"ve done till now !
-
->Started combining both horizontal and vertical structures together go make a fully functional suupport for my inverted pedals.
-
->Then I worked on making a potentiometer rotation system to rotate potentiometer so here is whatt I designed 
-
-![image](https://stasis.hackclub-assets.com/images/1781896941005-qlvo0y.png)
-
->A rectangular piece for potentiometer with two holed , one for connection rod and one for potentiometer shaft and joined it to one on the desired holes for that on pedal so when I rotate pedal , the potentiometer rotates too giving signals to the microcontroller for movement of desired pedal .
-
-
->  Then I worked upon pedal force system in which I needed pedals to require diff amont of pressure to press the pedals so I used sprins system so I made a rod 
-
-
-![image](https://stasis.hackclub-assets.com/images/1781897828280-umyrm9.png)
-
-> And placed it in between pedal and support through holesand locked it at end with a stopper so it moves back but now inward .
-
-
-![image](https://stasis.hackclub-assets.com/images/1781897922578-51ayy9.png)
-
-> Then for pressure , I'll insert the springs in between the pedals and support ehtough rods like this :
-
-
-![Untitled](https://stasis.hackclub-assets.com/images/1781898091012-3e7rf2.png)
-
-And for more pressure , Ill use thicker springs like this :
-
-![Screenshot 2026-06-20 010156](https://stasis.hackclub-assets.com/images/1781898120018-6ebrzw.png)
-
-#### And Thats All I Did And Final Outcome Is This :
-
-
-![image](https://stasis.hackclub-assets.com/images/1781898199606-z3j6qn.png)
-
-![Screenshot 2026-06-20 011255](https://stasis.hackclub-assets.com/images/1781898242252-ps019c.png)
-
-
-![Screenshot 2026-06-20 011243](https://stasis.hackclub-assets.com/images/1781898239263-xr04bh.png)
-
-**That's 9 Hours of Continuous Work**
-
-
-
-![image](https://stasis.hackclub-assets.com/images/1781896941005-qlvo0y.png)
-![image](https://stasis.hackclub-assets.com/images/1781897828280-umyrm9.png)
-![image](https://stasis.hackclub-assets.com/images/1781897922578-51ayy9.png)
-![image](https://stasis.hackclub-assets.com/images/1781898091012-3e7rf2.png)
-![image](https://stasis.hackclub-assets.com/images/1781898120018-6ebrzw.png)
-![image](https://stasis.hackclub-assets.com/images/1781898199606-z3j6qn.png)
-![image](https://stasis.hackclub-assets.com/images/1781898242252-ps019c.png)
-![image](https://stasis.hackclub-assets.com/images/1781898239263-xr04bh.png)
 
 _Time spent: 9.5h_
 
